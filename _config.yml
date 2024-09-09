@@ -1,5 +1,5 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
+title: Incident Investigation
+description: An investigation of an incident and a demonstration of the incident response process
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
